@@ -4,7 +4,7 @@ description: >-
   Inc., and TheFacebook, Inc., is an American multinational technology
   conglomerate based in Menlo Park, California. The company owns and operates
   Facebook, Instagram, Threads, and WhatsApp, among other products and services.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/meta.yml
+url: https://raw.githubusercontent.com/api-search/social/main/_data/meta/overlays/apis-io-search.yml
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'

@@ -3,7 +3,7 @@ name: LinkedIn
 description: |-
   Welcome to LinkedIn, the world's largest professional network with more than
   950 million members in more than 200 countries and territories worldwide.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/linkedin.yml
+url: https://raw.githubusercontent.com/api-search/social/main/_apis/linkedin/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'
