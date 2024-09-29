@@ -1,4 +1,3 @@
----
 name: Meta
 description: >-
   Meta Platforms, Inc., doing business as Meta, and formerly named Facebook,
@@ -25,5 +24,3 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: meta
-
----
