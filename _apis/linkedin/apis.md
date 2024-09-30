@@ -1,3 +1,4 @@
+---
 name: LinkedIn
 description: |-
   Welcome to LinkedIn, the world's largest professional network with more than
@@ -164,3 +165,4 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: linkedin
+---
